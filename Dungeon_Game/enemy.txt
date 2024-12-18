@@ -1,0 +1,78 @@
+-----Easy Enemy-----
+
+1.Goblin:
+Hp:20
+Str:2
+Attacks:str*2 ,0, str*5
+Special: None
+
+
+2.Skeleton Soldier:
+Hp:25
+Str:7
+Attacks:str*2 ,0, str*4
+Special: None
+
+
+3.Zombie:
+Hp:40
+Str:5
+Attacks:str*2 ,0, str*4
+Special: None
+
+
+
+-----Normal Enemy-----
+
+1.Orc:
+Hp:100
+Str:8
+Attacks:str*2, str*4
+Special:str+2
+
+
+2.Ghost:
+Hp:60
+Str:10
+Attacks:str*2, str*4
+Special:hp+10
+
+
+3.Bear:
+Hp:120
+Str:12
+Attacks:Str+10, Str*2, Str*4
+Special: None
+
+
+-----Hard Enemy-----
+
+1.Vampire
+Hp:300
+Str:15
+Attacks:str*3, str*4
+Special:Hp+10 & 10 damage
+
+
+2.Werewolf
+Hp:200
+Str:20
+Attacks:str*5,str*3,str*4
+Special:None
+
+
+3.SpiderQuenn
+Hp:240
+Str:22
+Attack:str+15,str*2
+Special:Str+5
+
+
+-----Final Boss-----
+
+Demon of all Demons
+Hp:500
+Str30
+Attack:str*3
+Special:Str+5, Hp+50
+
