@@ -1,7 +1,5 @@
 ##Dungeon Adventure Game
 
-https://docs.google.com/document/d/1Hb0QPo_0bUFklgshV7GuyNPGEBPK51mINCrQHsJYQbA/edit?tab=t.0
-
 #Overview
 
 Dungeon Adventure is a text-based role-playing game where players explore a dungeon, interact with enemies, collect items, and navigate through rooms. The game is built using C and follows a modular structure, with different source files managing various aspects of the game, such as the map, player, items, and enemies.
